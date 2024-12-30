@@ -1,5 +1,9 @@
 # DistTest
 
+<a target="_blank" href="https://staging.mipasa.com/projects/import/git?repo=https%3A%2F%2Fgithub.com%2Fvfsoraki%2Fdist_test&branch=main&dir=test" style="background: #fff;padding: 0.1rem 0.5rem; border-radius: 0.5rem; display: inline-block">
+        <img src="https://staging.mipasa.com/mipasa/open-in.svg" alt="Open In MiPasa"/>
+</a>
+
 A POC for handling singleton processes and resolving network splits.
 
 Uses `:global` to resolve conflicts.
